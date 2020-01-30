@@ -1,6 +1,2 @@
 fixed bug
-<<<<<<< .mine
-again bug fixed by rajan
-=======
 new line bug fixed
->>>>>>> .theirs
