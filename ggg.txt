@@ -1,2 +1,6 @@
 ggg
+<<<<<<< .mine
 new code has been checked in
+=======
+from the website, code has been integrated.
+>>>>>>> .theirs
